@@ -9,7 +9,7 @@ Warmup Tasks
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
 :Points: 9
-:Due-Date: YYYY-MM-DDTHH:mm:ss
+:Due-Date: 2015-03-23T09:00:00
 
 Overview
 ========
