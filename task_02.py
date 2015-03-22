@@ -5,7 +5,7 @@
 
 def bool_to_str(bval):
     """True or False"""
-    if bval is True:
+    if bval:
         return 'Yes'
     else:
         return 'No'
