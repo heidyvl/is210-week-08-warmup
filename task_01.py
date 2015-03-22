@@ -5,10 +5,9 @@
 
 def fibonacci(maxint):
     """Fibonacci"""
-    listfib = []
+    listfib = [0]
     numa, numb = 0, 1
     while numb < maxint:
         listfib.append(numb)
         numa, numb = numb, numa+numb
     return listfib
-print fibonacci(10)
